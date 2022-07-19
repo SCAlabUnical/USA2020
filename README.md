@@ -7,5 +7,4 @@ The collected tweets was published by users located in the 11 main swing states,
 We provide only the unique id of each tweet. The complete information can be gathered by using Twitter hydrators.
 
 ## How to cite
-L. Belcastro, F. Branda, R. Cantini, F. Marozzo, D. Talia and P. Trunfio. Predict the outcome of the 2020 US presidential election by analyzing voter behavior on social media. Social Network Analysis and Mining. Under review.
-
+Belcastro, L., Branda, F., Cantini, R. et al. Analyzing voter behavior on social media during the 2020 US presidential election campaign. Soc. Netw. Anal. Min. 12, 83 (2022). https://doi.org/10.1007/s13278-022-00913-9
